@@ -1,0 +1,379 @@
+2019-11-06 10:25:28,594 Welcome to p-fish version 1.0
+New Scan Started...
+2019-11-06 10:25:28,605 System:linux2
+2019-11-06 10:25:28,605 Version:2.7.15+ (default, Oct  7 2019, 17:39:04) 
+[GCC 7.4.0]
+2019-11-06 10:25:28,605 Root Path:/etc/
+2019-11-06 10:25:28,620 ['os-release', Skipped Link NOT a File]
+2019-11-06 10:29:22,693 Welcome to p-fish version 1.0
+New Scan Started...
+2019-11-06 10:29:22,693 System:linux2
+2019-11-06 10:29:22,693 Version:2.7.15+ (default, Oct  7 2019, 17:39:04) 
+[GCC 7.4.0]
+2019-11-06 10:29:22,693 Root Path:/etc/
+2019-11-06 10:29:22,697 ['os-release', Skipped Link NOT a File]
+2019-11-06 10:29:22,758 ['resolv.conf', Skipped Link NOT a File]
+2019-11-06 10:29:22,776 Open Failed:/etc/brlapi.key
+2019-11-06 10:29:22,802 ['vtrgb', Skipped Link NOT a File]
+2019-11-06 10:29:22,807 Open Failed:/etc/gshadow
+2019-11-06 10:29:22,808 ['printcap', Skipped Link NOT a File]
+2019-11-06 10:29:22,822 Open Failed:/etc/sudoers.tmp.save
+2019-11-06 10:29:22,837 Open Failed:/etc/gshadow-
+2019-11-06 10:29:22,885 Open Failed:/etc/.pwd.lock
+2019-11-06 10:29:22,893 Open Failed:/etc/sudoers
+2019-11-06 10:29:22,893 ['localtime', Skipped Link NOT a File]
+2019-11-06 10:29:22,899 Open Failed:/etc/shadow
+2019-11-06 10:29:22,912 ['mtab', Skipped Link NOT a File]
+2019-11-06 10:29:22,928 Open Failed:/etc/shadow-
+2019-11-06 10:29:22,961 Files Processed87
+2019-11-06 10:29:22,961 Elapsed Time0.268030881882 seconds
+2019-11-06 10:29:22,961 Program Terminated Normally
+2019-11-06 10:39:52,222 Welcome to p-fish version 1.0
+New Scan Started...
+2019-11-06 10:39:52,223 System:linux2
+2019-11-06 10:39:52,223 Version:2.7.15+ (default, Oct  7 2019, 17:39:04) 
+[GCC 7.4.0]
+2019-11-06 10:39:52,224 Root Path:/etc/
+2019-11-06 10:39:52,227 ['os-release', Skipped Link NOT a File]
+2019-11-06 10:39:52,229 ['resolv.conf', Skipped Link NOT a File]
+2019-11-06 10:39:52,230 Open Failed:/etc/brlapi.key
+2019-11-06 10:39:52,231 ['vtrgb', Skipped Link NOT a File]
+2019-11-06 10:39:52,231 Open Failed:/etc/gshadow
+2019-11-06 10:39:52,232 ['printcap', Skipped Link NOT a File]
+2019-11-06 10:39:52,233 Open Failed:/etc/sudoers.tmp.save
+2019-11-06 10:39:52,233 Open Failed:/etc/gshadow-
+2019-11-06 10:39:52,234 Open Failed:/etc/.pwd.lock
+2019-11-06 10:39:52,235 Open Failed:/etc/sudoers
+2019-11-06 10:39:52,235 ['localtime', Skipped Link NOT a File]
+2019-11-06 10:39:52,235 Open Failed:/etc/shadow
+2019-11-06 10:39:52,236 ['mtab', Skipped Link NOT a File]
+2019-11-06 10:39:52,238 Open Failed:/etc/shadow-
+2019-11-06 10:39:52,240 Files Processed87
+2019-11-06 10:39:52,241 Elapsed Time0.0186388492584 seconds
+2019-11-06 10:39:52,241 Program Terminated Normally
+2019-11-06 10:47:04,223 Welcome to p-fish version 1.0
+New Scan Started...
+2019-11-06 10:47:04,223 System:linux2
+2019-11-06 10:47:04,223 Version:2.7.15+ (default, Oct  7 2019, 17:39:04) 
+[GCC 7.4.0]
+2019-11-06 10:47:04,223 Root Path:/etc/
+2019-11-06 10:47:04,224 ['os-release', Skipped Link NOT a File]
+2019-11-06 10:47:04,226 ['resolv.conf', Skipped Link NOT a File]
+2019-11-06 10:47:04,227 Open Failed:/etc/brlapi.key
+2019-11-06 10:47:04,228 ['vtrgb', Skipped Link NOT a File]
+2019-11-06 10:47:04,228 Open Failed:/etc/gshadow
+2019-11-06 10:47:04,228 ['printcap', Skipped Link NOT a File]
+2019-11-06 10:47:04,229 Open Failed:/etc/sudoers.tmp.save
+2019-11-06 10:47:04,230 Open Failed:/etc/gshadow-
+2019-11-06 10:47:04,231 Open Failed:/etc/.pwd.lock
+2019-11-06 10:47:04,231 Open Failed:/etc/sudoers
+2019-11-06 10:47:04,231 ['localtime', Skipped Link NOT a File]
+2019-11-06 10:47:04,232 Open Failed:/etc/shadow
+2019-11-06 10:47:04,232 ['mtab', Skipped Link NOT a File]
+2019-11-06 10:47:04,233 Open Failed:/etc/shadow-
+2019-11-06 10:47:04,235 Files Processed87
+2019-11-06 10:47:04,235 Elapsed Time0.0125529766083 seconds
+2019-11-06 10:47:04,235 Program Terminated Normally
+2019-11-06 10:48:14,116 Welcome to p-fish version 1.0
+New Scan Started...
+2019-11-06 10:48:14,116 System:linux2
+2019-11-06 10:48:14,116 Version:2.7.15+ (default, Oct  7 2019, 17:39:04) 
+[GCC 7.4.0]
+2019-11-06 10:48:14,116 Root Path:/etc/
+2019-11-06 10:48:14,117 ['os-release', Skipped Link NOT a File]
+2019-11-06 10:48:14,119 ['resolv.conf', Skipped Link NOT a File]
+2019-11-06 10:48:14,120 Open Failed:/etc/brlapi.key
+2019-11-06 10:48:14,121 ['vtrgb', Skipped Link NOT a File]
+2019-11-06 10:48:14,121 Open Failed:/etc/gshadow
+2019-11-06 10:48:14,121 ['printcap', Skipped Link NOT a File]
+2019-11-06 10:48:14,122 Open Failed:/etc/sudoers.tmp.save
+2019-11-06 10:48:14,122 Open Failed:/etc/gshadow-
+2019-11-06 10:48:14,123 Open Failed:/etc/.pwd.lock
+2019-11-06 10:48:14,124 Open Failed:/etc/sudoers
+2019-11-06 10:48:14,124 ['localtime', Skipped Link NOT a File]
+2019-11-06 10:48:14,124 Open Failed:/etc/shadow
+2019-11-06 10:48:14,124 ['mtab', Skipped Link NOT a File]
+2019-11-06 10:48:14,125 Open Failed:/etc/shadow-
+2019-11-06 10:48:14,127 Files Processed87
+2019-11-06 10:48:14,127 Elapsed Time0.0113470554352 seconds
+2019-11-06 10:48:14,127 Program Terminated Normally
+2019-11-06 10:49:24,046 Welcome to p-fish version 1.0
+New Scan Started...
+2019-11-06 10:49:24,047 System:linux2
+2019-11-06 10:49:24,047 Version:2.7.15+ (default, Oct  7 2019, 17:39:04) 
+[GCC 7.4.0]
+2019-11-06 10:49:24,047 Root Path:/etc/
+2019-11-06 10:49:24,050 ['os-release', Skipped Link NOT a File]
+2019-11-06 10:49:24,053 ['resolv.conf', Skipped Link NOT a File]
+2019-11-06 10:49:24,054 Open Failed:/etc/brlapi.key
+2019-11-06 10:49:24,054 ['vtrgb', Skipped Link NOT a File]
+2019-11-06 10:49:24,055 Open Failed:/etc/gshadow
+2019-11-06 10:49:24,055 ['printcap', Skipped Link NOT a File]
+2019-11-06 10:49:24,055 Open Failed:/etc/sudoers.tmp.save
+2019-11-06 10:49:24,056 Open Failed:/etc/gshadow-
+2019-11-06 10:49:24,056 Open Failed:/etc/.pwd.lock
+2019-11-06 10:49:24,057 Open Failed:/etc/sudoers
+2019-11-06 10:49:24,057 ['localtime', Skipped Link NOT a File]
+2019-11-06 10:49:24,057 Open Failed:/etc/shadow
+2019-11-06 10:49:24,057 ['mtab', Skipped Link NOT a File]
+2019-11-06 10:49:24,059 Open Failed:/etc/shadow-
+2019-11-06 10:49:24,060 Files Processed87
+2019-11-06 10:49:24,060 Elapsed Time0.0137529373169 seconds
+2019-11-06 10:49:24,060 Program Terminated Normally
+2019-11-06 10:50:11,247 Welcome to p-fish version 1.0
+New Scan Started...
+2019-11-06 10:50:11,247 System:linux2
+2019-11-06 10:50:11,248 Version:2.7.15+ (default, Oct  7 2019, 17:39:04) 
+[GCC 7.4.0]
+2019-11-06 10:50:11,249 Root Path:/etc/
+2019-11-06 10:50:11,252 ['os-release', Skipped Link NOT a File]
+2019-11-06 10:50:11,254 ['resolv.conf', Skipped Link NOT a File]
+2019-11-06 10:50:11,255 Open Failed:/etc/brlapi.key
+2019-11-06 10:50:11,256 ['vtrgb', Skipped Link NOT a File]
+2019-11-06 10:50:11,257 Open Failed:/etc/gshadow
+2019-11-06 10:50:11,257 ['printcap', Skipped Link NOT a File]
+2019-11-06 10:50:11,258 Open Failed:/etc/sudoers.tmp.save
+2019-11-06 10:50:11,259 Open Failed:/etc/gshadow-
+2019-11-06 10:50:11,259 Open Failed:/etc/.pwd.lock
+2019-11-06 10:50:11,260 Open Failed:/etc/sudoers
+2019-11-06 10:50:11,260 ['localtime', Skipped Link NOT a File]
+2019-11-06 10:50:11,261 Open Failed:/etc/shadow
+2019-11-06 10:50:11,261 ['mtab', Skipped Link NOT a File]
+2019-11-06 10:50:11,262 Open Failed:/etc/shadow-
+2019-11-06 10:50:11,266 Files Processed87
+2019-11-06 10:50:11,266 Elapsed Time0.0185511112213 seconds
+2019-11-06 10:50:11,266 Program Terminated Normally
+2019-11-06 10:55:36,198 Welcome to p-fish version 1.0
+New Scan Started...
+2019-11-06 10:55:36,198 System:linux2
+2019-11-06 10:55:36,198 Version:2.7.15+ (default, Oct  7 2019, 17:39:04) 
+[GCC 7.4.0]
+2019-11-06 10:55:36,199 Root Path:/etc/
+2019-11-06 10:55:36,200 ['os-release', Skipped Link NOT a File]
+2019-11-06 10:55:36,202 ['resolv.conf', Skipped Link NOT a File]
+2019-11-06 10:55:36,203 Open Failed:/etc/brlapi.key
+2019-11-06 10:55:36,204 ['vtrgb', Skipped Link NOT a File]
+2019-11-06 10:55:36,204 Open Failed:/etc/gshadow
+2019-11-06 10:55:36,204 ['printcap', Skipped Link NOT a File]
+2019-11-06 10:55:36,205 Open Failed:/etc/sudoers.tmp.save
+2019-11-06 10:55:36,206 Open Failed:/etc/gshadow-
+2019-11-06 10:55:36,206 Open Failed:/etc/.pwd.lock
+2019-11-06 10:55:36,207 Open Failed:/etc/sudoers
+2019-11-06 10:55:36,207 ['localtime', Skipped Link NOT a File]
+2019-11-06 10:55:36,207 Open Failed:/etc/shadow
+2019-11-06 10:55:36,208 ['mtab', Skipped Link NOT a File]
+2019-11-06 10:55:36,209 Open Failed:/etc/shadow-
+2019-11-06 10:55:36,211 Files Processed87
+2019-11-06 10:55:36,211 Elapsed Time0.0129129886627 seconds
+2019-11-06 10:55:36,211 Program Terminated Normally
+2019-11-06 11:02:06,549 Welcome to p-fish version 1.0
+New Scan Started...
+2019-11-06 11:02:06,550 System:linux2
+2019-11-06 11:02:06,550 Version:2.7.15+ (default, Oct  7 2019, 17:39:04) 
+[GCC 7.4.0]
+2019-11-06 11:02:06,550 Root Path:/etc/
+2019-11-06 11:02:06,551 ['os-release', Skipped Link NOT a File]
+2019-11-06 11:02:06,553 ['resolv.conf', Skipped Link NOT a File]
+2019-11-06 11:02:06,554 Open Failed:/etc/brlapi.key
+2019-11-06 11:02:06,555 ['vtrgb', Skipped Link NOT a File]
+2019-11-06 11:02:06,555 Open Failed:/etc/gshadow
+2019-11-06 11:02:06,555 ['printcap', Skipped Link NOT a File]
+2019-11-06 11:02:06,556 Open Failed:/etc/sudoers.tmp.save
+2019-11-06 11:02:06,557 Open Failed:/etc/gshadow-
+2019-11-06 11:02:06,557 Open Failed:/etc/.pwd.lock
+2019-11-06 11:02:06,558 Open Failed:/etc/sudoers
+2019-11-06 11:02:06,558 ['localtime', Skipped Link NOT a File]
+2019-11-06 11:02:06,558 Open Failed:/etc/shadow
+2019-11-06 11:02:06,558 ['mtab', Skipped Link NOT a File]
+2019-11-06 11:02:06,559 Open Failed:/etc/shadow-
+2019-11-06 11:02:06,561 Files Processed87
+2019-11-06 11:02:06,562 Elapsed Time0.012097120285 seconds
+2019-11-06 11:02:06,562 Program Terminated Normally
+2019-11-06 11:06:43,394 Welcome to p-fish version 1.0
+New Scan Started...
+2019-11-06 11:06:43,394 System:linux2
+2019-11-06 11:06:43,394 Version:2.7.15+ (default, Oct  7 2019, 17:39:04) 
+[GCC 7.4.0]
+2019-11-06 11:06:43,394 Root Path:/etc/
+2019-11-06 11:06:43,395 ['os-release', Skipped Link NOT a File]
+2019-11-06 11:06:43,397 ['resolv.conf', Skipped Link NOT a File]
+2019-11-06 11:06:43,399 Open Failed:/etc/brlapi.key
+2019-11-06 11:06:43,399 ['vtrgb', Skipped Link NOT a File]
+2019-11-06 11:06:43,400 Open Failed:/etc/gshadow
+2019-11-06 11:06:43,400 ['printcap', Skipped Link NOT a File]
+2019-11-06 11:06:43,401 Open Failed:/etc/sudoers.tmp.save
+2019-11-06 11:06:43,401 Open Failed:/etc/gshadow-
+2019-11-06 11:06:43,402 Open Failed:/etc/.pwd.lock
+2019-11-06 11:06:43,402 Open Failed:/etc/sudoers
+2019-11-06 11:06:43,403 ['localtime', Skipped Link NOT a File]
+2019-11-06 11:06:43,403 Open Failed:/etc/shadow
+2019-11-06 11:06:43,403 ['mtab', Skipped Link NOT a File]
+2019-11-06 11:06:43,404 Open Failed:/etc/shadow-
+2019-11-06 11:06:43,406 Files Processed87
+2019-11-06 11:06:43,406 Elapsed Time0.0126168727875 seconds
+2019-11-06 11:06:43,406 Program Terminated Normally
+2019-11-06 11:10:28,485 Welcome to p-fish version 1.0
+New Scan Started...
+2019-11-06 11:10:28,485 System:linux2
+2019-11-06 11:10:28,485 Version:2.7.15+ (default, Oct  7 2019, 17:39:04) 
+[GCC 7.4.0]
+2019-11-06 11:10:28,485 Root Path:/etc/
+2019-11-06 11:10:28,486 ['os-release', Skipped Link NOT a File]
+2019-11-06 11:10:28,488 ['resolv.conf', Skipped Link NOT a File]
+2019-11-06 11:10:28,488 Open Failed:/etc/brlapi.key
+2019-11-06 11:10:28,489 ['vtrgb', Skipped Link NOT a File]
+2019-11-06 11:10:28,489 Open Failed:/etc/gshadow
+2019-11-06 11:10:28,490 ['printcap', Skipped Link NOT a File]
+2019-11-06 11:10:28,490 Open Failed:/etc/sudoers.tmp.save
+2019-11-06 11:10:28,491 Open Failed:/etc/gshadow-
+2019-11-06 11:10:28,491 Open Failed:/etc/.pwd.lock
+2019-11-06 11:10:28,492 Open Failed:/etc/sudoers
+2019-11-06 11:10:28,492 ['localtime', Skipped Link NOT a File]
+2019-11-06 11:10:28,492 Open Failed:/etc/shadow
+2019-11-06 11:10:28,493 ['mtab', Skipped Link NOT a File]
+2019-11-06 11:10:28,494 Open Failed:/etc/shadow-
+2019-11-06 11:10:28,496 Files Processed87
+2019-11-06 11:10:28,496 Elapsed Time0.0110678672791 seconds
+2019-11-06 11:10:28,496 Program Terminated Normally
+2019-11-06 11:14:02,386 Welcome to p-fish version 1.0
+New Scan Started...
+2019-11-06 11:14:02,386 System:linux2
+2019-11-06 11:14:02,387 Version:2.7.15+ (default, Oct  7 2019, 17:39:04) 
+[GCC 7.4.0]
+2019-11-06 11:14:02,387 Root Path:/etc/
+2019-11-06 11:14:02,388 ['os-release', Skipped Link NOT a File]
+2019-11-06 11:14:02,390 ['resolv.conf', Skipped Link NOT a File]
+2019-11-06 11:14:02,391 Open Failed:/etc/brlapi.key
+2019-11-06 11:14:02,392 ['vtrgb', Skipped Link NOT a File]
+2019-11-06 11:14:02,392 Open Failed:/etc/gshadow
+2019-11-06 11:14:02,393 ['printcap', Skipped Link NOT a File]
+2019-11-06 11:14:02,393 Open Failed:/etc/sudoers.tmp.save
+2019-11-06 11:14:02,394 Open Failed:/etc/gshadow-
+2019-11-06 11:14:02,395 Open Failed:/etc/.pwd.lock
+2019-11-06 11:14:02,395 Open Failed:/etc/sudoers
+2019-11-06 11:14:02,395 ['localtime', Skipped Link NOT a File]
+2019-11-06 11:14:02,396 Open Failed:/etc/shadow
+2019-11-06 11:14:02,396 ['mtab', Skipped Link NOT a File]
+2019-11-06 11:14:02,398 Open Failed:/etc/shadow-
+2019-11-06 11:14:02,400 Files Processed87
+2019-11-06 11:14:02,400 Elapsed Time0.0135638713837 seconds
+2019-11-06 11:14:02,400 Program Terminated Normally
+2019-11-06 11:18:03,096 Welcome to p-fish version 1.0
+New Scan Started...
+2019-11-06 11:18:03,097 System:linux2
+2019-11-06 11:18:03,097 Version:2.7.15+ (default, Oct  7 2019, 17:39:04) 
+[GCC 7.4.0]
+2019-11-06 11:18:03,098 Root Path:/etc/
+2019-11-06 11:18:03,099 ['os-release', Skipped Link NOT a File]
+2019-11-06 11:18:03,100 ['resolv.conf', Skipped Link NOT a File]
+2019-11-06 11:18:03,101 Open Failed:/etc/brlapi.key
+2019-11-06 11:18:03,102 ['vtrgb', Skipped Link NOT a File]
+2019-11-06 11:18:03,102 Open Failed:/etc/gshadow
+2019-11-06 11:18:03,103 ['printcap', Skipped Link NOT a File]
+2019-11-06 11:18:03,104 Open Failed:/etc/sudoers.tmp.save
+2019-11-06 11:18:03,104 Open Failed:/etc/gshadow-
+2019-11-06 11:18:03,105 Open Failed:/etc/.pwd.lock
+2019-11-06 11:18:03,106 Open Failed:/etc/sudoers
+2019-11-06 11:18:03,106 ['localtime', Skipped Link NOT a File]
+2019-11-06 11:18:03,106 Open Failed:/etc/shadow
+2019-11-06 11:18:03,106 ['mtab', Skipped Link NOT a File]
+2019-11-06 11:18:03,108 Open Failed:/etc/shadow-
+2019-11-06 11:18:03,110 Files Processed87
+2019-11-06 11:18:03,110 Elapsed Time0.0140521526337 seconds
+2019-11-06 11:18:03,110 Program Terminated Normally
+2019-11-06 11:36:29,620 Welcome to p-fish version 1.0
+New Scan Started...
+2019-11-06 11:38:01,852 Welcome to p-fish version 1.0
+New Scan Started...
+2019-11-06 11:41:27,672 Welcome to p-fish version 1.0
+New Scan Started...
+2019-11-06 11:41:27,672 System:linux2
+2019-11-06 11:41:27,672 Version:2.7.15+ (default, Oct  7 2019, 17:39:04) 
+[GCC 7.4.0]
+2019-11-06 11:41:27,672 Root Path:/etc/
+2019-11-06 11:41:27,673 ['os-release', Skipped Link NOT a File]
+2019-11-06 11:41:27,675 ['resolv.conf', Skipped Link NOT a File]
+2019-11-06 11:41:27,676 Open Failed:/etc/brlapi.key
+2019-11-06 11:41:27,678 ['vtrgb', Skipped Link NOT a File]
+2019-11-06 11:41:27,678 Open Failed:/etc/gshadow
+2019-11-06 11:41:27,679 ['printcap', Skipped Link NOT a File]
+2019-11-06 11:41:27,680 Open Failed:/etc/sudoers.tmp.save
+2019-11-06 11:41:27,681 Open Failed:/etc/gshadow-
+2019-11-06 11:41:27,681 Open Failed:/etc/.pwd.lock
+2019-11-06 11:41:27,682 Open Failed:/etc/sudoers
+2019-11-06 11:41:27,682 ['localtime', Skipped Link NOT a File]
+2019-11-06 11:41:27,682 Open Failed:/etc/shadow
+2019-11-06 11:41:27,683 ['mtab', Skipped Link NOT a File]
+2019-11-06 11:41:27,684 Open Failed:/etc/shadow-
+2019-11-06 11:41:27,685 Files Processed87
+2019-11-06 11:41:27,686 Elapsed Time0.0138559341431 seconds
+2019-11-06 11:41:27,686 Program Terminated Normally
+2019-11-06 11:43:11,955 Welcome to p-fish version 1.0
+New Scan Started...
+2019-11-06 11:43:11,955 System:linux2
+2019-11-06 11:43:11,955 Version:2.7.15+ (default, Oct  7 2019, 17:39:04) 
+[GCC 7.4.0]
+2019-11-06 11:43:11,955 Root Path:/etc/
+2019-11-06 11:43:11,958 ['os-release', Skipped Link NOT a File]
+2019-11-06 11:43:11,962 ['resolv.conf', Skipped Link NOT a File]
+2019-11-06 11:43:11,963 Open Failed:/etc/brlapi.key
+2019-11-06 11:43:11,964 ['vtrgb', Skipped Link NOT a File]
+2019-11-06 11:43:11,965 Open Failed:/etc/gshadow
+2019-11-06 11:43:11,965 ['printcap', Skipped Link NOT a File]
+2019-11-06 11:43:11,966 Open Failed:/etc/sudoers.tmp.save
+2019-11-06 11:43:11,966 Open Failed:/etc/gshadow-
+2019-11-06 11:43:11,967 Open Failed:/etc/.pwd.lock
+2019-11-06 11:43:11,967 Open Failed:/etc/sudoers
+2019-11-06 11:43:11,967 ['localtime', Skipped Link NOT a File]
+2019-11-06 11:43:11,968 Open Failed:/etc/shadow
+2019-11-06 11:43:11,968 ['mtab', Skipped Link NOT a File]
+2019-11-06 11:43:11,969 Open Failed:/etc/shadow-
+2019-11-06 11:43:11,971 Files Processed87
+2019-11-06 11:43:11,971 Elapsed Time0.0158650875092 seconds
+2019-11-06 11:43:11,971 Program Terminated Normally
+2019-11-06 11:46:45,463 Welcome to p-fish version 1.0
+New Scan Started...
+2019-11-06 11:46:45,464 System:linux2
+2019-11-06 11:46:45,464 Version:2.7.15+ (default, Oct  7 2019, 17:39:04) 
+[GCC 7.4.0]
+2019-11-06 11:46:45,465 Root Path:/etc/
+2019-11-06 11:46:45,467 ['os-release', Skipped Link NOT a File]
+2019-11-06 11:46:45,470 ['resolv.conf', Skipped Link NOT a File]
+2019-11-06 11:46:45,471 Open Failed:/etc/brlapi.key
+2019-11-06 11:46:45,472 ['vtrgb', Skipped Link NOT a File]
+2019-11-06 11:46:45,472 Open Failed:/etc/gshadow
+2019-11-06 11:46:45,473 ['printcap', Skipped Link NOT a File]
+2019-11-06 11:46:45,474 Open Failed:/etc/sudoers.tmp.save
+2019-11-06 11:46:45,474 Open Failed:/etc/gshadow-
+2019-11-06 11:46:45,476 Open Failed:/etc/.pwd.lock
+2019-11-06 11:46:45,477 Open Failed:/etc/sudoers
+2019-11-06 11:46:45,478 ['localtime', Skipped Link NOT a File]
+2019-11-06 11:46:45,479 Open Failed:/etc/shadow
+2019-11-06 11:46:45,479 ['mtab', Skipped Link NOT a File]
+2019-11-06 11:46:45,481 Open Failed:/etc/shadow-
+2019-11-06 11:46:45,483 Files Processed87
+2019-11-06 11:46:45,483 Elapsed Time0.0198791027069 seconds
+2019-11-06 11:46:45,484 Program Terminated Normally
+2019-11-06 11:46:56,150 Welcome to p-fish version 1.0
+New Scan Started...
+2019-11-06 11:46:56,150 System:linux2
+2019-11-06 11:46:56,150 Version:2.7.15+ (default, Oct  7 2019, 17:39:04) 
+[GCC 7.4.0]
+2019-11-06 11:46:56,150 Root Path:/etc/
+2019-11-06 11:46:56,152 ['os-release', Skipped Link NOT a File]
+2019-11-06 11:46:56,155 ['resolv.conf', Skipped Link NOT a File]
+2019-11-06 11:46:56,156 Open Failed:/etc/brlapi.key
+2019-11-06 11:46:56,157 ['vtrgb', Skipped Link NOT a File]
+2019-11-06 11:46:56,157 Open Failed:/etc/gshadow
+2019-11-06 11:46:56,157 ['printcap', Skipped Link NOT a File]
+2019-11-06 11:46:56,158 Open Failed:/etc/sudoers.tmp.save
+2019-11-06 11:46:56,158 Open Failed:/etc/gshadow-
+2019-11-06 11:46:56,159 Open Failed:/etc/.pwd.lock
+2019-11-06 11:46:56,159 Open Failed:/etc/sudoers
+2019-11-06 11:46:56,159 ['localtime', Skipped Link NOT a File]
+2019-11-06 11:46:56,160 Open Failed:/etc/shadow
+2019-11-06 11:46:56,160 ['mtab', Skipped Link NOT a File]
+2019-11-06 11:46:56,161 Open Failed:/etc/shadow-
+2019-11-06 11:46:56,162 Files Processed87
+2019-11-06 11:46:56,163 Elapsed Time0.0128519535065 seconds
+2019-11-06 11:46:56,163 Program Terminated Normally
